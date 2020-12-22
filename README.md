@@ -1,2 +1,2 @@
-# Class 11
+# Yoko2
 This is Yoko's web page
